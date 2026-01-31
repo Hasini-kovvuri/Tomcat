@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>orgain-food</finalName>
+    <finalName>organics-food</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
